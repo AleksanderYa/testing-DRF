@@ -114,3 +114,11 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# .idea
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/start_test.iml
+.idea/vcs.xml
+.idea/
